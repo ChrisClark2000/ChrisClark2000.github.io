@@ -3,10 +3,10 @@ body{
   
 }
 p{
-  font-size: 14px;
+  font-size: 100%;
   color: red;
 }
 h1{
- font-size: 20px;
+ font-size:  200%;
   color: green;
 }
